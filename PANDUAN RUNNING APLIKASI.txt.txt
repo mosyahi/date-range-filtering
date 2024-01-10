@@ -1,0 +1,11 @@
+0. config php.ini (bagian :intl di aktifkan menjadi intl hapus ";")
+1. Buat database phpmyadmin dengan nama (test-maxxima)
+2. php spark migrate (untuk import database migration ke test-maxxima)
+3. php spark serve 
+4. lalu jalankan melalui http://localhost:8080
+
+
+
+linkedin : https://linkedin.com/in/mochsyarifhidayat13
+portfolio : https://mosyahizuku.site/
+instagram : @mochsyarifhidayat13
